@@ -25,8 +25,9 @@ GIT
 
 --desde consola
 
-*git clone git@github.com:herbal828/UMBook.git
-*grails integrate-with --eclipse
+-*git clone git@github.com:herbal828/UMBook.git
+
+-*grails integrate-with --eclipse
 
 -Importar el proyecto desde STS
 -Podemos realizar las siguientes acciones
