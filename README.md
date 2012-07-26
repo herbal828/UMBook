@@ -22,7 +22,9 @@ GIT
 
 -Instalar las aplicaciones mencionadas anteriormente
 -Descargar el contenido del repositorio en una carpeta e integrarlo a STS
+
 --desde consola
+
 *git clone git@github.com:herbal828/UMBook.git
 *grails integrate-with --eclipse
 
