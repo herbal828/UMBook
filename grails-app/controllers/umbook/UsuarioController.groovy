@@ -16,6 +16,7 @@ class UsuarioController {
 		session.usuario = usuario
 		flash.message = "Bienvenido ${params.usuario}!"
 		redirect(action:"list")
+		
 		//redirect(controller:"usuario", action:"list")
 	  }else{
 		flash.message = "Perdona, ${params.usuario}.INGRESA CORRECTAMENTE TUS DATOS"

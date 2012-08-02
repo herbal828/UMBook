@@ -9,6 +9,7 @@ class Usuario {
 	Long telefono
 	String usuario
 	String password
+	Date fechaNac
 	
 	
     static constraints = {
@@ -19,6 +20,7 @@ class Usuario {
 		direccion(maxSize:40, nullable:false, blank:false)
 		usuario(unique:true, maxSize:20, nullable:false, blank:false)
 		password(password:true, maxSize:20, nullable:false, blank:false)
+		fechaNac(blank:false, attributes: [precision: "day"])
 		//nombre()
     }
 

@@ -3,4 +3,5 @@ CONNECT USER SA
 DISCONNECT
 /*C4*/SET SCHEMA PUBLIC
 CONNECT USER SA
-INSERT INTO USUARIO VALUES(5,0,'sdadsa','dsadsad','dsadsa','jasinto','dsadsa',123213,'dsadsa')
+INSERT INTO USUARIO VALUES(3,0,'djskladsa','djskaldj','djsladja','2012-08-02 00:00:00.000000000','jsakld','dsjkaldjsa',123456,'dsadlaj')
+DELETE FROM USUARIO WHERE ID=3
