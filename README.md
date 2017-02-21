@@ -1,7 +1,9 @@
+Prueba de Hooks 2
+
 UMBook
 ======
 
-Final Ingeniería de Software Hernàn Balmes
+Final Ingeniería de Software Hernán Balmes
 
 
 ------------------------------------------------------------------------------------
@@ -13,7 +15,7 @@ http://www.springsource.org/springsource-tool-suite-download
 GRAILS V 1.3.7
 http://grails.org/Download
 
-JAVA 1.6 
+JAVA 1.6
 http://www.java.com/es/download/
 
 GIT
@@ -39,5 +41,3 @@ GIT
 Estas acciones tambien pueden ser realizadas desde consola, estando parados en la carpeta descargada.
 
 -La Web ya se esta ejecutando, quedara corriendo en http://localhost:8080/UMBook/
-
-
