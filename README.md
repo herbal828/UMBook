@@ -4,8 +4,6 @@ UMBook
 ======
 
 Final Ingeniería de Software Hernán Balmes
-
-
 ------------------------------------------------------------------------------------
 Aplicaciones Usuadas:
 
@@ -19,7 +17,6 @@ JAVA 1.6
 http://www.java.com/es/download/
 
 GIT
-
 ------------------------------------------------------------------------------------
 
 -Instalar las aplicaciones mencionadas anteriormente
