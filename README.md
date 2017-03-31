@@ -1,7 +1,7 @@
 UMBook
 ======
 
-Final Ingeniería de Software Hernàn Balmes
+Final Ingeniería de Software Hernán Balmes
 
 
 ------------------------------------------------------------------------------------
