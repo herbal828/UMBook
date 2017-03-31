@@ -10,7 +10,7 @@ Aplicaciones Usuadas:
 SPRINGSOURCE TOOL SUITE
 http://www.springsource.org/springsource-tool-suite-download
 
-GRAILS V 1.3.7
+GRAILS V 1.3.7 * Se va a actualizar o hacer de cero.
 http://grails.org/Download
 
 JAVA 1.6 
